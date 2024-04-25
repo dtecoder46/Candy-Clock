@@ -1,5 +1,5 @@
 # Candy Clock
-A customizable timer that allows the client to stay focused on homework while satisfying a virtual pet.
+A customizable timer, created through a PCKX (PHP, C++, Kotlin, XML | aka PACKX) stack that allows the client to stay focused on homework while satisfying a virtual pet.
 
 ## Installation
 Replit:
