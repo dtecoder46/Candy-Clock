@@ -25,4 +25,13 @@ If you choose "Feed Lily", you are greeted by an exceptionally hungry character 
 
 For a more in-depth look into the program, be sure to check the code comments.
 
+## Reset Candy Clock
+To reset your progress, delete all XML code except for:
+
+~~~xml
+<candy1>0</candy1>
+~~~
+
+Then reset the entry number in _entry.txt_ to 1.
+
 ![signature](sig.jpeg)
